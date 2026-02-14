@@ -1,4 +1,4 @@
-Movie Rating Analysis Project
+## Movie Rating Analysis Project
 
 Objective
 
