@@ -31,6 +31,7 @@ Dataset contains movie ratings and metadata.
 
 ## Weighted Ranking Model
 Implemented IMDb-style weighted rating formula.
+WR = (v/(v+m) * R) + (m/(v+m) * C)
 
 ## Results
 Top ranked movies generated after analysis.
