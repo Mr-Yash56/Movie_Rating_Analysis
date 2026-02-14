@@ -1,21 +1,21 @@
 ## Movie Rating Analysis Project
 
-Objective
+## Objective
 
 Analyze 50K+ Indian movies dataset to understand rating distribution, genre performance, and build weighted ranking model.
 
-Project Structure
+## Project Structure
 	•	Notebook 1: Data Cleaning
 	•	Notebook 2: Exploratory Data Analysis
 	•	Notebook 3: Advanced Weighted Ranking
 
-Key Insights
+## Key Insights
 	•	Majority of movies are rated between 5 and 7
 	•	Votes show weak positive correlation with rating
 	•	Certain genres consistently perform better
 	•	Weighted ranking significantly changes top movie list
 
-Tools Used
+## Tools Used
 	•	Python
 	•	Pandas
 	•	NumPy
