@@ -21,3 +21,21 @@ Tools Used
 	•	NumPy
 	•	Matplotlib
 	•	Seaborn
+
+
+## Project Overview
+This project performs end-to-end movie rating analysis using weighted ranking.
+
+## Dataset
+Dataset contains movie ratings and metadata.
+
+## Weighted Ranking Model
+Implemented IMDb-style weighted rating formula.
+
+## Results
+Top ranked movies generated after analysis.
+
+## How to Run
+1. Install requirements
+2. Open notebooks
+3. Run cells
